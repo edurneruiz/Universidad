@@ -1,0 +1,16 @@
+CUADRILLA      CAPACIDAD      PLANTACION     PARCELA        PLATANOS A RECOGER
+cuad1          30             Plantacion1    (0, 3)         27             
+cuad2          5              Plantacion2    (0, 3)         26             
+cuad3          20             Plantacion2    (0, 3)         26             
+cuad4          10             Plantacion2    (0, 3)         26             
+cuad5          40             Plantacion1    (0, 6)         25             
+cuad6          5              Plantacion1    (3, 6)         23             
+cuad7          10             Plantacion1    (3, 6)         23             
+cuad8          30             Plantacion1    (3, 6)         23             
+cuad9          25             Plantacion2    (0, 6)         22             
+cuad10         5              Plantacion1    (0, 0)         21             
+cuad11         20             Plantacion1    (0, 0)         21             
+cuad12         30             Plantacion2    (0, 0)         15             
+cuad13         35             Plantacion2    (0, 9)         14             
+cuad14         10             Plantacion1    (3, 3)         10             
+cuad15         18             Plantacion1    (3, 0)         7              

@@ -1,0 +1,16 @@
+15
+cuad1 30
+cuad2 5
+cuad3 20
+cuad4 10
+cuad5 40
+cuad6 5
+cuad7 10
+cuad8 30
+cuad9 25
+cuad10 5
+cuad11 20
+cuad12 30
+cuad13 35
+cuad14 10
+cuad15 18
