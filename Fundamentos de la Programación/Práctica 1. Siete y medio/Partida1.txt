@@ -1,0 +1,4 @@
+Partida #1
+Ganador: ¡Humano!
+Resultados humano: - Puntuacion: 6 -Cartas: 10 11 3 2 
+Resultados maquina: - Puntuacion: 10 -Cartas: 5 5 

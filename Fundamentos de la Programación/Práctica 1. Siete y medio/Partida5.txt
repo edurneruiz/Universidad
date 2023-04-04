@@ -1,0 +1,4 @@
+Partida #5
+Ganador: ¡Humano!
+Resultados humano: - Puntuacion: 6 -Cartas: 1 1 11 3 12 
+Resultados maquina: - Puntuacion: 11 -Cartas: 5 6 

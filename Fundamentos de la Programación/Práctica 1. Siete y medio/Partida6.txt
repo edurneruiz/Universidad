@@ -1,0 +1,4 @@
+Partida #6
+Ganador: ¡Maquina!
+Resultados humano: - Puntuacion: 8 -Cartas: 10 10 7 
+Resultados maquina: - Puntuacion: 0 -Cartas: 
