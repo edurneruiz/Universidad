@@ -1,0 +1,49 @@
+3
+RealVillalba
+10000.5
+4
+3
+1
+Juan Juanez
+4
+500.0
+2
+Miguel Miguelez 
+6
+500.0
+11
+Daniel Danielez
+3
+500.0
+AtleticoAranjuez 
+2000.0
+5
+3
+4
+Rosa Rosaez
+5
+500.0
+5
+Marta Martez
+7
+500.0
+6
+Julia Juliez
+1
+500.0
+RayoRobledo 
+1000.0
+3
+3
+7
+Lola Lolez
+1
+500.0
+8
+Sancho Sanchez
+1
+500.0
+9
+Yolanda Yolandez
+1
+500.0 
