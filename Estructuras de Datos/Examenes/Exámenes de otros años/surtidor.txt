@@ -1,0 +1,7 @@
+annadir_surtidor s1
+cargar_surtidor s1 cb1 2
+poner_en_espera s1 v1
+poner_en_espera s1 v2
+vender s1 cb1 1
+abandona v2
+FIN

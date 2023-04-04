@@ -1,0 +1,9 @@
+vender boli Ana
+hay_esperando boli
+hay_esperando lapiz
+vender boli Pedro
+vender boli Luis
+adquirir boli 20/06/19 2
+cuantos boli
+hay_esperando boli
+FIN
