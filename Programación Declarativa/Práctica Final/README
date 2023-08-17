@@ -1,0 +1,19 @@
+Objetivo de la práctica: 
+  Escribir un programa en Haskell que implemente una serie de funciones para manejar un diccionario español-inglés.
+Descripción del problema: 
+  Las entradas del diccionario serán pares de palabras. Donde la segunda componente del par representa la traducción de la primera. Por ejemplo: (mesa, table). 
+  El diccionario se guardará en una tabla hash, que habr´a que inicializar a partir de un fichero de texto dado, que contiene
+  los pares de palabras para poder ser usado posteriormente con el fin de traducir frases. No es importante el tipo de hashing ni la eficiencia.
+Se pide:
+  1. Definición de una estructura de datos de nombre Hash para representar una tabla hash. 
+  2. Declaración del tipo Hash como instancia de la clase Show, mediante redefinición del método show para que se muestre algo parecido al esquema anterior.
+  3. Definición de la función hash. Dada una palabra en español devuelve su valor en el índice de la tabla. 
+     El índice tiene solo 10 valores distintos.
+  4. Inicialización del diccionario. Rellena la tabla hash donde se almacenará el diccionario a partir del fichero de texto dado datos.txt.
+  5. Lectura de varias palabras a traducir introducidas por el teclado.
+  6. Cálculo de la longitud media de las palabras introducidas.
+  7. Búsqueda en el diccionario de la traducción de las palabras introducidas.
+  8. Muestra en pantalla la traducción de las palabras en el orden en el que se introdujeron o un mensaje para aquellas que no aparecen en el diccionario.
+Indicaciones:
+  Se pueden usar todas las funciones de Prelude, es decir, las que se cargan con el sistema, pero no se puede importar ningún otro módulo, lo que quiere decir que, por ejemplo, si se usan operaciones con listas que no están en Prelude hay que programarlas.
+  Se valorará muy positivamente el uso de funciones de orden superior predefinidas en Haskell y listas intensionales.
